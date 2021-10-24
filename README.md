@@ -26,6 +26,7 @@ Write each commit message in lowercase and ends with an emoji code with this for
 | :package:                   | `:package:`                   | Package.json file             |
 | :balance_scale:             | `:balance_scale:`             | Copyright and License         |
 | :speech_balloon:            | `:speech_balloon:`            | README.md file                |
+| :sparkles:                  | `:sparkles:`                  | Introduce new features        |
 
 
 ## 🍻 Contributors
@@ -41,10 +42,10 @@ Made with 💖 by [ErwCode Technologies](https://erwcode.com/).
 
 
 
-[mit-license-image]: https://img.shields.io/github/license/erwcode/webpack-starter-kit.svg
-[mit-license-url]: https://github.com/erwcode/webpack-starter-kit/blob/master/LICENSE
+[mit-license-image]: https://img.shields.io/github/license/erwcode/gitmoji-cheatsheet.svg
+[mit-license-url]: https://github.com/erwcode/gitmoji-cheatsheet/blob/master/LICENSE
 
-[contributors]: https://img.shields.io/github/contributors/erwcode/webpack-starter-kit.svg?color=orange
-[contributors-url]: https://github.com/erwcode/webpack-starter-kit/graphs/contributors
+[contributors]: https://img.shields.io/github/contributors/erwcode/gitmoji-cheatsheet.svg?color=orange
+[contributors-url]: https://github.com/erwcode/gitmoji-cheatsheet/graphs/contributors
 
-[version-url]: https://img.shields.io/github/package-json/v/erwcode/webpack-starter-kit.svg?color=red
+[version-url]: https://img.shields.io/github/package-json/v/erwcode/gitmoji-cheatsheet.svg?color=red
