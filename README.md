@@ -34,6 +34,7 @@ Write each commit message in lowercase and ends with an emoji code with this for
 | :construction:              | `:construction:`              | Work in progress              |
 | :building_construction:     | `:building_construction:`     | Making architectural changes  |
 | :satellite:                 | `:satellite:`                 | API Implementation            |
+| :gear:                      | `:gear:`                      | Setting up                    |
 
 
 ## 🍻 Contributors
