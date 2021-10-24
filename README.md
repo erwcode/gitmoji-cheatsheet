@@ -28,6 +28,7 @@ Write each commit message in lowercase and ends with an emoji code with this for
 | :speech_balloon:            | `:speech_balloon:`            | README.md file                |
 | :sparkles:                  | `:sparkles:`                  | Introduce new features        |
 | :zap:                       | `:zap:`                       | Improving performance         |
+| :recycle:                   | `:recycle:`                   | Refactoring code              |
 
 
 ## 🍻 Contributors
