@@ -24,6 +24,7 @@ Write each commit message in lowercase and ends with an emoji code with this for
 | :card_file_box:             | `:card_file_box:`             | .gitignore setting file       |
 | :mouse:                     | `:mouse:`                     | .editorconfig setting file    |
 | :package:                   | `:package:`                   | Package.json file             |
+| :balance_scale:             | `:balance_scale:`             | Copyright and License         |
 
 
 ## 🍻 Contributors
