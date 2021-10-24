@@ -1,0 +1,8 @@
+{
+  "name": "gitmoji-cheatsheet",
+  "version": "0.0.0",
+  "description": "Gitmoji Commit is an initiative to standardize the use of emojis on GitHub commit messages",
+  "keywords": [],
+  "author": "ErwCode Technologies <contacto@erwcode.com>",
+  "license": "MIT"
+}
