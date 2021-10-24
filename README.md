@@ -29,6 +29,7 @@ Write each commit message in lowercase and ends with an emoji code with this for
 | :sparkles:                  | `:sparkles:`                  | Introduce new features        |
 | :zap:                       | `:zap:`                       | Improving performance         |
 | :recycle:                   | `:recycle:`                   | Refactoring code              |
+| :art:                       | `:art:`                       | Custom UI styles              |
 
 
 ## 🍻 Contributors
