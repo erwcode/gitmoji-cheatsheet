@@ -32,6 +32,7 @@ Write each commit message in lowercase and ends with an emoji code with this for
 | :art:                       | `:art:`                       | Custom UI styles              |
 | :construction_worker:       | `:construction_worker:`       | CI build system               |
 | :construction:              | `:construction:`              | Work in progress              |
+| :building_construction:     | `:building_construction:`     | Making architectural changes  |
 
 
 ## 🍻 Contributors
