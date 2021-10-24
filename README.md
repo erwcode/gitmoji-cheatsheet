@@ -27,6 +27,7 @@ Write each commit message in lowercase and ends with an emoji code with this for
 | :balance_scale:             | `:balance_scale:`             | Copyright and License         |
 | :speech_balloon:            | `:speech_balloon:`            | README.md file                |
 | :sparkles:                  | `:sparkles:`                  | Introduce new features        |
+| :zap:                       | `:zap:`                       | Improving performance         |
 
 
 ## 🍻 Contributors
