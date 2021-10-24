@@ -25,6 +25,7 @@ Write each commit message in lowercase and ends with an emoji code with this for
 | :mouse:                     | `:mouse:`                     | .editorconfig setting file    |
 | :package:                   | `:package:`                   | Package.json file             |
 | :balance_scale:             | `:balance_scale:`             | Copyright and License         |
+| :speech_balloon:            | `:speech_balloon:`            | README.md file                |
 
 
 ## 🍻 Contributors
