@@ -21,6 +21,7 @@ Write each commit message in lowercase and ends with an emoji code with this for
 | Emoji                       | Code                          | Commit type                   |
 |:----------------------------|:------------------------------|:------------------------------|
 | :tada:                      | `:tada:`                      | Initial commit                |
+| :card_file_box:             | `:card_file_box:`             | .gitignore setting file       |
 
 
 ## 🍻 Contributors
