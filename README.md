@@ -36,6 +36,7 @@ Write each commit message in lowercase and ends with an emoji code with this for
 | :satellite:                 | `:satellite:`                 | API Implementation            |
 | :gear:                      | `:gear:`                      | Setting up                    |
 | :artificial_satellite:      | `:artificial_satellite:`      | Local server                  |
+| :bookmark:                  | `:bookmark:`                  | Version tag                   |
 
 
 ## 🍻 Contributors
