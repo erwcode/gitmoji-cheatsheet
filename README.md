@@ -43,6 +43,7 @@ Write each commit message in lowercase and ends with an emoji code with this for
 | :books:                     | `:books:`                     | Documentation                 |
 | :arrow_up:                  | `:arrow_up:`                  | Upgrading dependencies        |
 | :arrow_down:                | `:arrow_down:`                | Downgrading dependencies      |
+| :twisted_rightwards_arrows: | `:twisted_rightwards_arrows:` | Mergin branches               |
 
 
 ## 🍻 Contributors
