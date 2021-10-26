@@ -42,6 +42,7 @@ Write each commit message in lowercase and ends with an emoji code with this for
 | :eyes:                      | `:eyes:`                      | Review requested              |
 | :books:                     | `:books:`                     | Documentation                 |
 | :arrow_up:                  | `:arrow_up:`                  | Upgrading dependencies        |
+| :arrow_down:                | `:arrow_down:`                | Downgrading dependencies      |
 
 
 ## 🍻 Contributors
