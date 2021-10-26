@@ -39,6 +39,7 @@ Write each commit message in lowercase and ends with an emoji code with this for
 | :bookmark:                  | `:bookmark:`                  | Version tag                   |
 | :warning:                   | `:warning:`                   | Solve warnings                |
 | :lady_beetle:               | `:lady_beetle:`               | Fix bug                       | 
+| :eyes:                      | `:eyes:`                      | Review requested              |
 
 
 ## 🍻 Contributors
