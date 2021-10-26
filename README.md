@@ -41,6 +41,7 @@ Write each commit message in lowercase and ends with an emoji code with this for
 | :lady_beetle:               | `:lady_beetle:`               | Fix bug                       | 
 | :eyes:                      | `:eyes:`                      | Review requested              |
 | :books:                     | `:books:`                     | Documentation                 |
+| :arrow_up:                  | `:arrow_up:`                  | Upgrading dependencies        |
 
 
 ## 🍻 Contributors
