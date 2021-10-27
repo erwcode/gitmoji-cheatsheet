@@ -56,6 +56,8 @@ Write each commit message in lowercase and ends with an emoji code with this for
 | :sushi:                     | `:sushi:`                     | Molecules                     |
 | :bento:                     | `:bento:`                     | Organisms                     |
 | :stuffed_flatbread:         | `:stuffed_flatbread:`         | Templates                     |
+| :green_salad:               | `:green_salad:`               | Pages                         |
+
 
 ## 🍻 Contributors
 
