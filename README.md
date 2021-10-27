@@ -46,6 +46,14 @@ Write each commit message in lowercase and ends with an emoji code with this for
 | :twisted_rightwards_arrows: | `:twisted_rightwards_arrows:` | Mergin branches               |
 
 
+## 🧬 Atomic Design
+
+> We’re not designing pages, we’re designing systems of components. — Stephen Hay
+
+| Emoji                       | Code                          | Commit type                   |
+|:----------------------------|:------------------------------|:------------------------------|
+| :fish_cake:                 | `:fish_cake:`                 | Atoms                         |
+
 ## 🍻 Contributors
 
 | Name                                                              | Role                                       |
