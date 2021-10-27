@@ -53,6 +53,7 @@ Write each commit message in lowercase and ends with an emoji code with this for
 | Emoji                       | Code                          | Commit type                   |
 |:----------------------------|:------------------------------|:------------------------------|
 | :fish_cake:                 | `:fish_cake:`                 | Atoms                         |
+| :sushi:                     | `:sushi:`                     | Molecules                     |
 
 ## 🍻 Contributors
 
